@@ -1,0 +1,1288 @@
+﻿Log file open, 07/19/18 11:00:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: groupProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1125560014) SRandInit(1125560014).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274337
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.907s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Camp-6N56142 (129.59.56.149:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.19-16.00.52:588][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.19-16.00.52:588][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.19-16.00.52:602][  0]LogInit: Computer: CAMP-6N56142
+[2018.07.19-16.00.52:603][  0]LogInit: User: iDStudent
+[2018.07.19-16.00.52:603][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.19-16.00.52:603][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.07.19-16.00.52:603][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.19-16.00.52:603][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.19-16.00.52:603][  0]LogMemory: Process Physical Memory: 275.30 MB used, 275.30 MB peak
+[2018.07.19-16.00.52:603][  0]LogMemory: Process Virtual Memory: 265.06 MB used, 265.06 MB peak
+[2018.07.19-16.00.52:603][  0]LogMemory: Physical Memory: 3935.71 MB used,  12314.46 MB free, 16250.17 MB total
+[2018.07.19-16.00.52:603][  0]LogMemory: Virtual Memory: 693.31 MB used,  12314.46 MB free, 134217728.00 MB total
+[2018.07.19-16.00.53:323][  0]LogInit: Using OS detected language (en-US).
+[2018.07.19-16.00.53:323][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.19-16.00.53:325][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.19-16.00.53:743][  0]LogStreaming: Display: Took  0.421s to EndInitTextLocalization.
+[2018.07.19-16.00.53:744][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.19-16.00.53:780][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.19-16.00.53:780][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.19-16.00.53:974][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.19-16.00.54:024][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.07.19-16.00.54:024][  0]LogD3D11RHI:       4018/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.19-16.00.54:035][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.07.19-16.00.54:035][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.19-16.00.54:037][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.19-16.00.54:037][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.19-16.00.54:037][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.19-16.00.54:042][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.19-16.00.54:042][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.07.19-16.00.54:042][  0]LogWindows: EnumDisplayDevices:
+[2018.07.19-16.00.54:042][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.07.19-16.00.54:042][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.07.19-16.00.54:043][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.07.19-16.00.54:043][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.07.19-16.00.54:043][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.19-16.00.54:043][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.07.19-16.00.54:043][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.19-16.00.54:043][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.19-16.00.54:043][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.07.19-16.00.54:075][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.19-16.00.54:075][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.19-16.00.54:075][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.19-16.00.54:093][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.19-16.00.54:093][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Intermediate/Shaders/WorkingDirectory/6844/).
+[2018.07.19-16.00.54:093][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/iD Student/AppData/Local/Temp/UnrealShaderWorkingDir/EBFC6FFD4976F3CF9AD1E78843F540FE/'.
+[2018.07.19-16.00.54:311][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.19-16.00.54:324][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.19-16.00.54:336][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.19-16.00.54:349][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.19-16.00.54:362][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.19-16.00.54:375][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.19-16.00.54:388][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.19-16.00.54:402][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.19-16.00.54:408][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.19-16.00.54:419][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.19-16.00.54:431][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.19-16.00.54:441][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.19-16.00.54:452][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.19-16.00.54:462][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.19-16.00.54:473][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.19-16.00.54:494][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.19-16.00.54:494][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.19-16.00.54:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-16.00.54:506][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.19-16.00.54:544][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.19-16.00.54:554][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.19-16.00.54:565][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.19-16.00.54:576][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.19-16.00.54:588][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.19-16.00.54:600][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.19-16.00.54:600][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.19-16.00.54:701][  0]LogXGEController: Cleaning working directory: C:/Users/iD Student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.19-16.00.54:701][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.19-16.00.54:701][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.19-16.00.54:701][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.19-16.00.55:354][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.19-16.00.55:425][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/iD Student/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.19-16.00.55:425][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/iD Student/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.19-16.00.55:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.19-16.00.55:426][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.19-16.00.55:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.19-16.00.55:426][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.19-16.00.55:440][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.19-16.00.55:452][  0]LogDerivedDataCache: Using Local data cache path C:/Users/iD Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.19-16.00.55:462][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.19-16.00.55:462][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.19-16.00.55:463][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.19-16.00.55:463][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.19-16.00.55:575][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.07.19-16.00.55:879][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.19-16.00.56:019][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.19-16.00.56:022][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.19-16.00.56:022][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.19-16.00.56:022][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.19-16.00.56:022][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.19-16.00.56:022][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.19-16.00.56:050][  0]LogNetVersion: groupProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1474271174)
+[2018.07.19-16.00.56:500][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.087753 seconds
+[2018.07.19-16.00.56:505][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.19-16.00.56:505][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.19-16.00.56:505][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.19-16.00.58:101][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.19-16.00.58:128][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.19-16.00.58:509][  0]SourceControl: Source control is disabled
+[2018.07.19-16.00.58:510][  0]SourceControl: Source control is disabled
+[2018.07.19-16.00.58:525][  0]SourceControl: Source control is disabled
+[2018.07.19-16.00.58:541][  0]SourceControl: Source control is disabled
+[2018.07.19-16.00.59:035][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.19-16.00.59:174][  0]LogOcInput: OculusInput pre-init called
+[2018.07.19-16.00.59:279][  0]LogEngine: Initializing Engine...
+[2018.07.19-16.00.59:280][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.19-16.00.59:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.19-16.00.59:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.19-16.00.59:524][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.19-16.00.59:528][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.19-16.01.00:869][  0]LogInit: FAudioDevice initialized.
+[2018.07.19-16.01.00:936][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/iD Student/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.19-16.01.00:952][  0]LogInit: Texture streaming: Enabled
+[2018.07.19-16.01.00:969][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.19-16.01.00:982][  0]LogInit: Transaction tracking system initialized
+[2018.07.19-16.01.01:005][  0]BlueprintLog: New page: Editor Load
+[2018.07.19-16.01.01:086][  0]LocalizationService: Localization service is disabled
+[2018.07.19-16.01.01:156][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.07.19-16.01.01:156][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.07.19-16.01.01:156][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.07.19-16.01.01:181][  0]LogConsoleResponse: Display: 
+[2018.07.19-16.01.01:321][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.19-16.01.01:322][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.19-16.01.01:322][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.19-16.01.01:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.19-16.01.01:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.19-16.01.01:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/' took 0.03s
+[2018.07.19-16.01.01:670][  0]SourceControl: Source control is disabled
+[2018.07.19-16.01.01:671][  0]Cmd: MAP LOAD FILE="../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.19-16.01.01:671][  0]LightingResults: New page: Lighting Build
+[2018.07.19-16.01.01:674][  0]MapCheck: New page: Map Check
+[2018.07.19-16.01.01:674][  0]LightingResults: New page: Lighting Build
+[2018.07.19-16.01.01:999][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [24.195286ms] /Game/Maps/Defiler.Defiler
+[2018.07.19-16.01.02:165][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-16.01.02:179][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.19-16.01.02:195][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.19-16.01.02:245][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.905ms to complete.
+[2018.07.19-16.01.02:246][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.575
+[2018.07.19-16.01.02:388][  0]LogCollectionManager: Loaded 0 collections in 0.002295 seconds
+[2018.07.19-16.01.02:430][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Saved/Collections/' took 0.01s
+[2018.07.19-16.01.02:430][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/Developers/iDStudent/Collections/' took 0.01s
+[2018.07.19-16.01.02:430][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/Collections/' took 0.01s
+[2018.07.19-16.01.02:430][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.19-16.01.02:440][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2452 classes and 558 folders.
+[2018.07.19-16.01.02:447][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.19-16.01.02:487][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.19-16.01.02:493][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.19-16.01.02:582][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.19-16.01.02:585][  0]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.19-16.01.02:593][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.19-16.01.02:714][  0]LogRenderer: Reallocating scene render targets to support 784x476 Format 10 NumSamples 1 (Frame:1).
+[2018.07.19-16.01.02:792][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.19-16.01.02:933][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.19-16.01.02:933][  0]LogLoad: (Engine Initialization) Total time: 12.72 seconds
+[2018.07.19-16.01.02:933][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.19-16.01.02:951][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.19-16.01.02:988][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.19-16.01.03:063][  2]LogAssetRegistry: Asset discovery search completed in 7.5099 seconds
+[2018.07.19-16.01.03:067][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2018.07.19-16.01.03:067][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2018.07.19-16.01.16:319][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-16.01.19:426][959]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.19-16.01.19:740][959]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.07.19-16.01.20:480][959]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.19-16.01.20:691][960]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.19-16.01.22:751][ 70]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.07.19-16.01.48:225][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.19-16.01.48:949][629]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2018.07.19-16.01.51:329][766]LogEditorViewport: Clicking on Actor (context menu): AICharacter_C (AICharacter)
+[2018.07.19-16.01.51:365][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-16.01.52:666][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-16.02.20:515][488]LogRenderer: Reallocating scene render targets to support 912x540 Format 10 NumSamples 1 (Frame:1).
+[2018.07.19-16.02.28:434][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-16.02.48:264][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-16.03.37:600][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-16.03.37:684][ 60]BlueprintLog: New page: Compile AICharacter
+[2018.07.19-16.03.38:911][ 96]LogSavePackage: Save=26.38ms
+[2018.07.19-16.03.38:911][ 96]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Saved/AICharacter4AC4078B421EE65ABCB40BAC269E6531.tmp' to '../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/AI/AICharacterandController/AICharacter.uasset'
+[2018.07.19-16.03.38:915][ 96]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/AI/AICharacterandController/AICharacter.uasset
+[2018.07.19-16.03.39:613][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-16.03.41:493][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-16.03.41:523][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-16.03.41:524][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-16.03.41:524][245]PIE: New page: PIE session: FirstPersonExampleMap (Jul 19, 2018, 6:03:41 AM)
+[2018.07.19-16.03.41:524][245]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-16.03.41:556][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032053s)
+[2018.07.19-16.03.41:557][245]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-16.03.41:558][245]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2018.07.19-16.03.41:558][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.033803s)
+[2018.07.19-16.03.41:590][245]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.19-16.03.41:657][245]LogInit: FAudioDevice initialized.
+[2018.07.19-16.03.41:759][245]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-16.03.41:763][245]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.07.19-11.03.41
+[2018.07.19-16.03.41:769][245]LogWorld: Bringing up level for play took: 0.007622
+[2018.07.19-16.03.41:776][245]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.19-16.03.41:777][245]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.083
+[2018.07.19-16.03.41:777][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-16.03.41:778][245]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.41:866][246]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.41:883][247]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.41:921][248]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:012][249]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:028][250]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:045][251]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:062][252]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:079][253]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:095][254]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:112][255]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:129][256]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:145][257]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:162][258]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:178][259]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:195][260]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:212][261]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:229][262]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:245][263]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:262][264]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:278][265]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:295][266]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:312][267]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:328][268]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:345][269]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:362][270]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:378][271]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:395][272]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:412][273]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:429][274]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:447][275]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:463][276]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:479][277]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:496][278]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:513][279]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:530][280]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:546][281]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:563][282]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:579][283]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:596][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:613][285]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:630][286]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:646][287]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:663][288]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:680][289]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:696][290]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:713][291]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:730][292]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:746][293]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:763][294]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:779][295]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:796][296]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:813][297]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:829][298]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:846][299]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:863][300]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:879][301]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:896][302]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:913][303]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:929][304]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:946][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:963][306]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:979][307]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.42:996][308]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:013][309]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:030][310]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:046][311]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:063][312]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:079][313]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:097][314]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:113][315]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:129][316]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:146][317]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:163][318]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:180][319]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:196][320]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:213][321]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:230][322]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:246][323]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:263][324]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:279][325]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:296][326]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:313][327]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:330][328]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:346][329]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:363][330]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:379][331]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:396][332]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:413][333]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:430][334]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:446][335]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:463][336]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:479][337]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:496][338]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:513][339]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:529][340]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:546][341]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:563][342]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:579][343]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:596][344]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:613][345]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:629][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:646][347]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:663][348]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:680][349]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:696][350]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:713][351]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:729][352]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:746][353]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:763][354]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:779][355]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:796][356]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:813][357]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:829][358]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:846][359]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:863][360]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:880][361]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:896][362]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:913][363]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:929][364]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:946][365]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:963][366]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:980][367]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.43:996][368]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:013][369]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:029][370]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:046][371]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:063][372]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:080][373]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:096][374]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:113][375]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:130][376]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:146][377]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:163][378]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:179][379]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:196][380]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:213][381]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:229][382]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:247][383]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:263][384]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:279][385]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:296][386]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:313][387]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:329][388]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:346][389]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:363][390]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:379][391]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:396][392]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:412][393]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:429][394]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:446][395]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:463][396]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:479][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:497][398]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:513][399]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:529][400]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:546][401]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:563][402]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:579][403]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:596][404]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:613][405]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:629][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:646][407]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:663][408]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:680][409]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:696][410]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:713][411]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:730][412]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:747][413]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:763][414]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:780][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:797][416]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:813][417]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:830][418]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:846][419]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:863][420]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:880][421]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:896][422]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:913][423]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:930][424]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:946][425]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:963][426]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:979][427]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.44:996][428]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:013][429]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:029][430]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:046][431]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:063][432]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:080][433]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:096][434]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:113][435]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:130][436]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:146][437]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:163][438]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:180][439]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:197][440]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:213][441]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:230][442]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:246][443]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:263][444]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:279][445]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:296][446]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:313][447]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:329][448]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:346][449]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:363][450]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:380][451]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:396][452]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:413][453]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:430][454]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:447][455]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:463][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:480][457]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:496][458]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:513][459]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:529][460]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:546][461]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:563][462]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:580][463]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:597][464]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:613][465]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:630][466]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:646][467]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:663][468]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:679][469]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:696][470]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:713][471]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:729][472]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:746][473]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:763][474]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:780][475]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:796][476]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:813][477]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:830][478]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:846][479]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:863][480]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:880][481]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:896][482]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:913][483]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:930][484]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:946][485]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:963][486]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:979][487]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.45:996][488]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:014][489]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:030][490]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:046][491]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:063][492]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:079][493]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:096][494]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:113][495]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:130][496]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:146][497]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:163][498]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:180][499]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:197][500]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:213][501]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:229][502]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:246][503]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:263][504]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:280][505]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:296][506]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:313][507]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:330][508]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:346][509]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:363][510]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:380][511]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:396][512]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:413][513]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:429][514]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:447][515]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:463][516]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:480][517]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:497][518]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:513][519]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:529][520]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:546][521]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:563][522]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:580][523]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:596][524]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:613][525]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:629][526]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:647][527]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:663][528]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:680][529]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:696][530]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:713][531]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:730][532]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:747][533]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:763][534]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:780][535]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:796][536]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:814][537]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:830][538]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:847][539]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:863][540]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:880][541]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:896][542]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:913][543]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:930][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:947][545]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:963][546]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:980][547]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.46:997][548]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:013][549]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:030][550]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:047][551]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:063][552]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:079][553]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:096][554]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:113][555]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:130][556]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:146][557]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:163][558]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:179][559]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:196][560]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:213][561]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:230][562]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:246][563]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:263][564]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:280][565]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:296][566]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:313][567]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:330][568]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:347][569]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:363][570]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:380][571]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:396][572]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:413][573]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:430][574]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:446][575]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:463][576]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:480][577]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:496][578]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:513][579]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:529][580]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:546][581]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:563][582]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:579][583]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:596][584]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:613][585]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:630][586]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:646][587]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:663][588]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:680][589]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:697][590]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:713][591]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:730][592]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:746][593]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:763][594]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:779][595]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:797][596]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:813][597]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:830][598]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:846][599]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:863][600]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 100.0
+[2018.07.19-16.03.47:882][601]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.47:896][602]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.47:913][603]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.47:929][604]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.47:946][605]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.47:963][606]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.47:979][607]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.47:996][608]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:013][609]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:030][610]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:046][611]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:063][612]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:079][613]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:096][614]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:113][615]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:129][616]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:146][617]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:163][618]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:180][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:197][620]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:213][621]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:230][622]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:246][623]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:263][624]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:279][625]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:296][626]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:313][627]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:329][628]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:346][629]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:363][630]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:380][631]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:396][632]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:413][633]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:430][634]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:446][635]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:463][636]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:479][637]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:497][638]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:513][639]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:529][640]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:546][641]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:563][642]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:580][643]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:596][644]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:613][645]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:630][646]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:646][647]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:663][648]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:680][649]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:696][650]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:713][651]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:730][652]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:747][653]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:763][654]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:780][655]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:797][656]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:813][657]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:830][658]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:847][659]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:863][660]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:880][661]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.0
+[2018.07.19-16.03.48:897][662]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.48:913][663]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.48:930][664]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.48:947][665]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.48:964][666]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.48:980][667]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.48:997][668]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:013][669]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:030][670]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:047][671]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:063][672]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:080][673]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:096][674]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:113][675]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:130][676]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:147][677]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:163][678]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:180][679]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:197][680]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:213][681]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:230][682]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:247][683]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:263][684]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:280][685]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:296][686]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:313][687]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:330][688]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:347][689]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:363][690]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:380][691]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:397][692]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:413][693]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:429][694]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:446][695]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:463][696]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:480][697]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:497][698]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:513][699]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:530][700]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:547][701]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:564][702]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:580][703]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:597][704]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:614][705]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:630][706]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:647][707]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:663][708]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:680][709]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:697][710]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:713][711]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:730][712]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:747][713]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:763][714]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:780][715]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:796][716]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:813][717]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:829][718]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:847][719]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:863][720]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:880][721]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:896][722]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:913][723]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:930][724]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:947][725]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:963][726]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:980][727]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.49:997][728]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:013][729]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:030][730]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:046][731]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:063][732]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:080][733]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:096][734]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:113][735]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:129][736]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:147][737]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:163][738]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:180][739]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:197][740]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:213][741]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:230][742]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:246][743]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:263][744]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:280][745]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:297][746]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:313][747]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:329][748]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:346][749]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:363][750]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:380][751]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:397][752]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:413][753]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:430][754]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:447][755]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:463][756]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:480][757]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:496][758]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:513][759]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:530][760]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:546][761]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:563][762]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:580][763]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:596][764]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:613][765]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:629][766]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:647][767]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:663][768]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:680][769]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:696][770]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:713][771]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:730][772]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:746][773]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:763][774]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:780][775]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:797][776]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:813][777]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:830][778]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:847][779]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -100.0
+[2018.07.19-16.03.50:848][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-16.03.50:907][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-16.03.54:390][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-16.07.58:421][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-16.08.05:072][831]LogSavePackage: Save=158.32ms
+[2018.07.19-16.08.05:072][831]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Saved/FirstPersonExampleMapD6839A7A4BA62E9A8F3C7389FDEE62F3.tmp' to '../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.07.19-16.08.05:077][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.07.19-16.08.05:127][831]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.316
+[2018.07.19-16.08.05:282][831]LogSavePackage: Save=96.70ms
+[2018.07.19-16.08.05:282][831]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Saved/FirstPersonCharacter257A4C4E44792D4DE8598EAC189818B6.tmp' to '../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.07.19-16.08.05:286][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.07.19-16.08.07:329][934]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.19-16.08.07:392][934]LogSlate: Window 'groupProject - Unreal Editor' being destroyed
+[2018.07.19-16.08.07:686][935]Cmd: QUIT_EDITOR
+[2018.07.19-16.08.08:601][935]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.19-16.08.08:637][935]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.19-16.08.08:638][935]LogExit: Preparing to exit.
+[2018.07.19-16.08.09:338][935]LogDirectoryWatcher: A directory notification for 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/' was aborted.
+[2018.07.19-16.08.09:369][935]LogExit: Editor shut down
+[2018.07.19-16.08.09:374][935]LogExit: Transaction tracking system shut down
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../../../../../Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/' was aborted.
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.19-16.08.09:422][935]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.19-16.08.09:524][935]LogExit: Object subsystem successfully closed.
+[2018.07.19-16.08.09:539][935]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.19-16.08.09:543][935]LogD3D11RHI: Shutdown
+[2018.07.19-16.08.09:543][935]LogD3D11RHI: CleanupD3DDevice
+[2018.07.19-16.08.09:547][935]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.19-16.08.09:560][935]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.07.19-16.08.09:560][935]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.07.19-16.08.09:560][935]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.07.19-16.08.09:560][935]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.07.19-16.08.09:560][935]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.07.19-16.08.09:560][935]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.07.19-16.08.09:562][935]LogDirectoryWatcher: A directory notification for 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/Collections/' was aborted.
+[2018.07.19-16.08.09:562][935]LogDirectoryWatcher: A directory notification for 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Content/Developers/iDStudent/Collections/' was aborted.
+[2018.07.19-16.08.09:562][935]LogDirectoryWatcher: A directory notification for 'C:/Users/iD Student/Desktop/Jordan W/Final/groupProject/Saved/Collections/' was aborted.
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.19-16.08.09:562][935]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.19-16.08.09:563][935]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.19-16.08.10:312][935]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.19-16.08.10:312][935]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.19-16.08.10:312][935]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.19-16.08.10:312][935]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.19-16.08.10:312][935]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.19-16.08.10:312][935]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.19-16.08.10:313][935]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.19-16.08.10:314][935]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.19-16.08.10:314][935]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.19-16.08.10:314][935]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.19-16.08.10:314][935]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.19-16.08.10:314][935]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.19-16.08.10:314][935]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.19-16.08.10:314][935]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.19-16.08.10:378][935]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.19-16.08.10:378][935]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.19-16.08.10:378][935]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.19-16.08.10:378][935]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.19-16.08.10:378][935]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.19-16.08.10:378][935]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.19-16.08.10:379][935]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.19-16.08.10:379][935]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.19-16.08.10:379][935]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.19-16.08.10:379][935]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.19-16.08.10:393][935]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.19-16.08.10:393][935]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.19-16.08.10:393][935]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.19-16.08.10:393][935]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.19-16.08.10:394][935]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.19-16.08.10:395][935]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.19-16.08.10:395][935]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.19-16.08.10:395][935]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.19-16.08.10:395][935]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.19-16.08.10:395][935]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.19-16.08.10:561][935]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.19-16.08.10:561][935]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.19-16.08.10:561][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.19-16.08.10:561][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.19-16.08.10:561][935]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.19-16.08.10:561][935]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.19-16.08.10:561][935]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.19-16.08.10:562][935]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.19-16.08.10:571][935]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.19-16.08.10:572][935]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.19-16.08.10:573][935]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.19-16.08.10:674][935]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.19-16.08.10:775][935]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.19-16.08.10:775][935]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.19-16.08.10:775][935]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.19-16.08.10:775][935]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.19-16.08.10:775][935]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.19-16.08.10:776][935]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.19-16.08.10:778][935]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.19-16.08.10:778][935]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.19-16.08.10:779][935]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.19-16.08.10:779][935]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.19-16.08.10:780][935]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.19-16.08.10:783][935]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.19-16.08.10:783][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.19-16.08.10:783][935]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.19-16.08.10:783][935]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.19-16.08.10:992][935]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.19-16.08.10:992][935]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.19-16.08.10:993][935]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.19-16.08.10:995][935]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.19-16.08.11:002][935]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.19-16.08.11:003][935]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.19-16.08.11:004][935]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.19-16.08.11:004][935]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.19-16.08.11:004][935]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.19-16.08.11:004][935]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.19-16.08.11:004][935]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.19-16.08.11:004][935]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.19-16.08.11:004][935]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.19-16.08.11:005][935]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.19-16.08.11:008][935]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.19-16.08.11:008][935]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.19-16.08.11:009][935]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.19-16.08.11:011][935]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.19-16.08.11:027][935]LogDerivedDataCache: Shutdown
+[2018.07.19-16.08.11:027][935]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.19-16.08.11:027][935]LogXGEController: Cleaning working directory: C:/Users/iD Student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.19-16.08.11:027][935]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.19-16.08.11:027][935]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.19-16.08.11:027][935]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.19-16.08.11:027][935]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.19-16.08.11:027][935]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.19-16.08.11:028][935]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.19-16.08.11:029][935]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.19-16.08.11:030][935]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.19-16.08.11:030][935]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.19-16.08.11:030][935]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCFAD3605-4674-9188-C860-18A2D9352C9A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=2b8560fe495d6d5110e231ad8bbbd15d%7C4a8c01f5b0394714b568ffc63726fee6%7C1d3f1c36-a3f6-4dac-b938-2a082149bab2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.19-16.08.11:043][935]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.19-16.08.11:046][935]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.19-16.08.11:046][935]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.19-16.08.11:047][935]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.19-16.08.11:047][935]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.19-16.08.11:047][935]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.19-16.08.11:047][935]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.19-16.08.11:047][935]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.19-16.08.11:049][935]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.19-16.08.11:050][935]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.19-16.08.11:063][935]LogExit: Exiting.
+[2018.07.19-16.08.11:111][935]Log file closed, 07/19/18 11:08:11
